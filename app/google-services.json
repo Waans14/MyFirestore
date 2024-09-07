@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251808460782",
+    "project_id": "myfirestore-93b47",
+    "storage_bucket": "myfirestore-93b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251808460782:android:853ff75a78a0d54cb0a8ff",
+        "android_client_info": {
+          "package_name": "com.millenialzdev.myfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv59_yQ6jw1fz6bq5uXDuzvlAij2Bt9_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
